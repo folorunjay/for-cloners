@@ -1,1 +1,3 @@
-This is a random text
+This is a random text.
+A new feature was reuqest by the business team. The feature enables
+a search capability
